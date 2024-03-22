@@ -1,12 +1,35 @@
 [
     {
-        "usuario":"user",
-        "contraseña":"user123",
-        "tipo":"user"
+        "ID":"1",
+        "Correo":"mcastror@unibarranquilla.edu.co",
+        "Contraseña":"DEATHOFUS",
+        "Tipo_documento":"CC",
+        "No_identificacion":"1139425163",
+        "Nombre":"Manolo",
+        "Apellido":"Castro",
+        "Genero":"M",
+        "ID_Rol":2
     },
     {
-        "usuario":"admin",
-        "contraseña":"admin123",
-        "tipo":"admin"
+        "ID":"4",
+        "Correo":"dbasto@unibarranquilla.edu.co",
+        "Contraseña":"Soy@DavidBast0223",
+        "Tipo_documento":"CC",
+        "No_identificacion":"1043130479",
+        "Nombre":"David",
+        "Apellido":"Basto",
+        "Genero":"M",
+        "ID_Rol":1
+    },
+    {
+        "ID":"14",
+        "Correo":"jgarcia@unibarranquilla.edu.co",
+        "Contraseña":"Soy@Julian1123",
+        "Tipo_documento":"TI",
+        "No_identificacion":"1123128192",
+        "Nombre":"Julian",
+        "Apellido":"Garcia",
+        "Genero":"M",
+        "ID_Rol":2
     }
 ]
