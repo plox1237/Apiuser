@@ -38,5 +38,10 @@
         "ID":8,
         "ID_tipoPregunta":2,
         "Pregunta":"¿Cuantos creditos vale cada modulo de ingles?"
+    },
+    {
+        "ID":9,
+        "ID_tipoPregunta":2,
+        "Pregunta":"Cuando empiezan las clases de ingles?"
     }
 ]
