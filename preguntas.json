@@ -1,0 +1,42 @@
+[
+    {
+        "ID":1,
+        "ID_tipoPregunta":1,
+        "Pregunta":"¿Como puedo matricularme?"
+    },
+    {
+        "ID":2,
+        "ID_tipoPregunta":1,
+        "Pregunta":"¿Cuales son las fechas de matricula?"
+    },
+    {
+        "ID":3,
+        "ID_tipoPregunta":2,
+        "Pregunta":"¿Como puedo matricular ingles?"
+    },
+    {
+        "ID":4,
+        "ID_tipoPregunta":1,
+        "Pregunta":"¿Cual es el plazo maximo para matricular?"
+    },
+    {
+        "ID":5,
+        "ID_tipoPregunta":3,
+        "Pregunta":"¿Como puedo inscribirme en la IUB?"
+    },
+    {
+        "ID":6,
+        "ID_tipoPregunta":3,
+        "Pregunta":"¿Cuales son las fechas de inscripciones?"
+    },
+    {
+        "ID":7,
+        "ID_tipoPregunta":2,
+        "Pregunta":"¿Cuantos modulos de ingles son?"
+    },
+    {
+        "ID":8,
+        "ID_tipoPregunta":2,
+        "Pregunta":"¿Cuantos creditos vale cada modulo de ingles?"
+    }
+]
